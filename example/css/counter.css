@@ -1,0 +1,23 @@
+.counter-digit{
+    background-color: black;
+    color: white;
+    padding: 3px;
+    font-size: 14px;
+    font-weight: 900;
+    margin: 1px;
+}
+
+.counter-label{
+    padding: 5px;
+}
+
+.counter-wrapper{
+    margin-bottom: 45px;
+}
+
+input[type=number] {
+    width: 100px!important;
+}
+.container {
+    margin: 150px auto;
+}
