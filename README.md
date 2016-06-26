@@ -16,3 +16,6 @@
     5. element: element to use as placeholder.
 ##Requirement
     JQuery 1.4.1 or higher
+    
+##Example
+    You can see the example [here](https://moslemezzati.github.io/counter/)
